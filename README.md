@@ -28,8 +28,8 @@ All the code and pretrained models and sample images used in this project were c
 
 I take **no credit** for the model architecture, training, or dataset. All work belongs to the respective authors mentioned above.
 
-### 📚 Citation
-```bibtex
+## 📚 Citation
+
 @inproceedings{Zamir2021Restormer,
     title={Restormer: Efficient Transformer for High-Resolution Image Restoration}, 
     author={Syed Waqas Zamir and Aditya Arora and Salman Khan and Munawar Hayat 
@@ -37,7 +37,6 @@ I take **no credit** for the model architecture, training, or dataset. All work 
     booktitle={CVPR},
     year={2022}
 }
-
 
 ##  License
 
