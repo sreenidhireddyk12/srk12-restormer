@@ -6,7 +6,7 @@ Restormer outperforms prior methods in denoising, defocus deblurring, motion deb
 
 
 ## steps
-- Uploaded a rainy image(user input) on Google Colab(from the original authors)    
+- Uploaded a rainy image(user input) on Google Colab(from the original authors) https://colab.research.google.com/drive/1St2-f76JjiXAQSG3jn7lT73fFkQTVHmo#scrollTo=_Q2QyhhO7Tl5
 - Used a pre-trained image deraining model (from the original authors)  
 - Observed the derained output  
 - Understood the pipeline of preprocessing → model inference → postprocessing
