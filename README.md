@@ -1,7 +1,6 @@
 # image restoring using Restormer
 
 ## 📌 Overview
-## 📌 Overview
 This project explores how Restormer, a deep learning model, optimizes image restoration using transformer-based methods instead of traditional CNNs.  
 Restormer outperforms prior methods in denoising, defocus deblurring, motion deblurring, and deraining tasks while maintaining computational efficiency.
 
