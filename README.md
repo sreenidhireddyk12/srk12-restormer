@@ -10,8 +10,7 @@ Restormer outperforms prior methods in denoising, defocus deblurring, motion deb
 - Used a pre-trained image deraining model (from the original authors)  
 - Observed the derained output  
 - Understood the pipeline
-- 
----- Input image → preprocessing (resize, tensor conversion) → run through pretrained Restormer model → postprocess and save the clean image
+  - Input image → preprocessing (resize, tensor conversion) → run through pretrained Restormer model → postprocess and save the clean image
 
 ##  Objective
 To **learn and understand**:
